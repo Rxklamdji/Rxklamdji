@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-- 🔭 I’m currently working on My next React App.
+- 🔭 I’m currently working on my next React App.
 - 🌱 I’m currently learning Flask, Node.js and jQuery and Json
 - 👯 I’m looking to collaborate on web applications 
 - 🤔 I’m looking for help with user interfaces
