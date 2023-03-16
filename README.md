@@ -1,8 +1,8 @@
 ### Bonjour 👋
 
-- 🔭 I’m currently working on my next React App.
-- 🌱 I’m currently implementing C#, .NEt into Reactjs.
-- 👯 I’m looking to collaborate on web applications 
+- 🔭 Freelancer: Work Sample Moba-tech.com
+- 🌱 I’m currently implementing C#, .NEt into React.
+- 👯 I’m looking to collaborate  
 - 🤔 Everyday, we learn new things
 - 💬 Role Model: Chris Sawyer and few others.
 - 📫 How to reach me: rklamadji@gmail.com 
